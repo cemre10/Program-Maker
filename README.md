@@ -1,5 +1,7 @@
 # Program Maker
 
+## Concepts
+
 Welcome to Program Maker, this is a Python program designed to help you create schedules for lessons and groups. This program reads input from a text file, processes the information, and generates all possible schedules that are not CLASHING based on the provided data.
 
 ## 🚀 Features
@@ -38,7 +40,7 @@ Don't worry; it's designed to simplify your scheduling woes. Let's unravel the m
    Enter your txt file:
    ```
    - Enter your .txt file here. Now lets analyze the format of .txt file from the initial example [Program.txt](program.txt).
-2. Understanding the [Input File Format](# 🌟 Input File Format)
+2. Understanding the ###[Input File Format](# input file format)
    ```
    3                      # Number of Lessons
    LESSON1                - Lesson Name
