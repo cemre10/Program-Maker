@@ -30,16 +30,7 @@ The text file should start with the number of lessons (an integer). For each les
 
 Example Input File:
 
-3
-Math
-2
-M8 T10 W12
-Physics
-3
-M10 W14 F16
-Chemistry
-1
-TH8
+- [Program.txt](program.txt)
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E1Y3RmMDBwNXdibG4zaWhiNG9zdncwMjltaTJvbGRtazYwdjJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)
 
