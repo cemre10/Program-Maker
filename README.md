@@ -73,6 +73,7 @@ Don't worry; it's designed to simplify your scheduling woes. Let's unravel the m
                                           LESSON2                  | 14:30-16:20
                                                                    | 16:30-17:20
    Lesson LESSON1: Group 1, Lesson LESSON2: Group 1, Lesson LESSON3: Group 1
+   
    Monday       Tuesday      Wednesday    Thursday     Friday      
    ----------------------------------------------------------------
                 LESSON3                                            | 8:30-10:20
@@ -81,6 +82,7 @@ Don't worry; it's designed to simplify your scheduling woes. Let's unravel the m
                                           LESSON2                  | 14:30-16:20
                                                                    | 16:30-17:20
    Lesson LESSON1: Group 2, Lesson LESSON2: Group 1, Lesson LESSON3: Group 1
+   
    Monday       Tuesday      Wednesday    Thursday     Friday      
    ----------------------------------------------------------------
                 LESSON3      LESSON2                               | 8:30-10:20
@@ -89,6 +91,7 @@ Don't worry; it's designed to simplify your scheduling woes. Let's unravel the m
                                                                    | 14:30-16:20
                                                                    | 16:30-17:20
    Lesson LESSON1: Group 1, Lesson LESSON2: Group 2, Lesson LESSON3: Group 1
+   
    Monday       Tuesday      Wednesday    Thursday     Friday      
    ----------------------------------------------------------------
                 LESSON3      LESSON2                               | 8:30-10:20
