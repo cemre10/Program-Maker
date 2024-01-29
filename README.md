@@ -38,7 +38,7 @@ Don't worry; it's designed to simplify your scheduling woes. Let's unravel the m
    Enter your txt file:
    ```
    - Enter your .txt file here. Now lets analyze the format of .txt file from the initial example [Program.txt](program.txt).
-2. Understanding the [Input File Format](🌟 Input File Format)
+2. Understanding the [Input File Format](#🌟 Input File Format)
    ```
    3                      # Number of Lessons
    LESSON1                - Lesson Name
