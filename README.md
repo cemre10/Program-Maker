@@ -4,7 +4,7 @@
 
 Welcome to the Concepts section, where we delve into the foundational ideas that power the Program Maker.
 
-### 1. [Dynamic Scheduling](#🚀features)
+### 1. [Dynamic Scheduling](#features)
 
 Program Maker provides dynamic scheduling for lessons and groups, allowing flexibility in creating diverse schedules without conflicts.
 
