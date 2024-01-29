@@ -15,7 +15,7 @@ The text file should start with the number of lessons (an integer).
 Following that, list the lesson names (strings).
 For each lesson, specify how many times it occurs in a week and provide the corresponding schedule.
 Repeat this process for all lessons.
-If a lesson has multiple groups, indicate 'yes' and specify the schedule for each group; otherwise, mark 'no.' Continue this pattern for all other lessons."
+If a lesson has multiple groups, indicate 'yes' and specify the schedule for each group; otherwise, mark 'no.' Continue this pattern for all other lessons.
 
 Example Input/Output File:
 
