@@ -9,16 +9,14 @@ ready_program = [
           ]
 
 print_Program = []
-ready_group = []
-print_group = []
-
+ready_group   = []
+print_group   = []
 
 programFile = input("Enter your txt file: ")
 with open(programFile, 'r') as f:
     programList = f.readlines()
 
 programList = [item.replace('\n','') for item in programList]
-#print(programList)
     
 
 Names   =  [] # Lesson Names
