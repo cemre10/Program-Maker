@@ -59,7 +59,7 @@ Don't worry; it's designed to simplify your scheduling woes. Let's unravel the m
    yes                    - Does 2. lesson has 2. group? if yes type 'yes' and provide the corresponding schedule.
    Wednesday 8:30
    no                     - Does 2. lesson has 3. group? if no type 'no'
-   no                     - Does 2. lesson has 2. group? if no type 'no'
+   no                     - Does 3. lesson has 2. group? if no type 'no'
    ```
    
 3. Output:
