@@ -1,11 +1,5 @@
 # Program Maker
 
-Welcome to the GPA / CGPA Calculator! This Python script helps you calculate your GPA or CGPA based on your letter grades and credit hours.
-
-# Program Maker
-
-## Overview
-
 Welcome to Program Maker, this is a Python program designed to help you create schedules for lessons and groups. This program reads input from a text file, processes the information, and generates all possible schedules that are not CLASHING based on the provided data.
 
 ## 🚀 Features
