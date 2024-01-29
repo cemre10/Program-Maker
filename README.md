@@ -24,7 +24,7 @@ Example Input/Output File:
 
 ## 🎩 Is it complex?
 
-Don't worry; it's designed to simplify your scheduling woes. Let's unravel the magic behind the scenes and analyze what our program actually does with using our Program.txt input. 🚀
+Don't worry; it's designed to simplify your scheduling woes. Let's unravel the magic behind the scenes and analyze what our program actually does with using our [Program.txt](program.txt) input. 🚀
 
 ## 🎯 How to Use
 
