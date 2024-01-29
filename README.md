@@ -40,25 +40,25 @@ Don't worry; it's designed to simplify your scheduling woes. Let's unravel the m
    - Enter your .txt file here. Now lets analyze the format of .txt file from the initial example [Program.txt](program.txt).
 2. Input File Format
    ```
-   3        # Number of Lessons
-   LESSON1  - Lesson Name
-   LESSON2  - Lesson Name
-   LESSON3  - lesson Name
-   2        # how many times 1. lesson occurs in a week and provide the corresponding schedule.
+   3                      # Number of Lessons
+   LESSON1                - Lesson Name
+   LESSON2                - Lesson Name
+   LESSON3                - lesson Name
+   2                      # how many times 1. lesson occurs in a week and provide the corresponding schedule.
    Wednesday 10:30
    Friday 12:30
-   1        # how many times 2. lesson occurs in a week and provide the corresponding schedule.
+   1                      # how many times 2. lesson occurs in a week and provide the corresponding schedule.
    Thursday 14:30
-   1        # how many times 3. lesson occurs in a week and provide the corresponding schedule.
+   1                      # how many times 3. lesson occurs in a week and provide the corresponding schedule.
    Tuesday 8:30
-   yes      - Does 1. lesson has 2. group? if yes type 'yes' and provide the corresponding schedule.
+   yes                    - Does 1. lesson has 2. group? if yes type 'yes' and provide the corresponding schedule.
    Monday 10:30
    Tuesday 12:30
-   no       - Does 1. lesson has 3. group? if no type 'no'
-   yes      - Does 2. lesson has 2. group? if yes type 'yes' and provide the corresponding schedule.
+   no                     - Does 1. lesson has 3. group? if no type 'no'
+   yes                    - Does 2. lesson has 2. group? if yes type 'yes' and provide the corresponding schedule.
    Wednesday 8:30
-   no       - Does 2. lesson has 3. group? if no type 'no'
-   no       - Does 2. lesson has 2. group? if no type 'no'
+   no                     - Does 2. lesson has 3. group? if no type 'no'
+   no                     - Does 2. lesson has 2. group? if no type 'no'
    ```
 
 
