@@ -28,9 +28,10 @@ The text file should start with the number of lessons (an integer). For each les
 - Number of days the lesson occurs (integer)
 - For each day, provide the day and time of the lesson in the format "DayHour" or using predefined shortcuts (e.g., "M8" for Monday at 8:30).
 
-Example Input File:
+Example Input/Output File:
 
 - [Program.txt](program.txt)
+- [Output.txt](output.txt)
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E1Y3RmMDBwNXdibG4zaWhiNG9zdncwMjltaTJvbGRtazYwdjJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)
 
