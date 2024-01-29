@@ -4,7 +4,7 @@
 
 Welcome to the Concepts section, where we delve into the foundational ideas that power the Program Maker.
 
-### 1. [Dynamic Scheduling](#features)
+### 1. [Dynamic Scheduling](#🚀-features)
 
 Program Maker provides dynamic scheduling for lessons and groups, allowing flexibility in creating diverse schedules without conflicts.
 
@@ -41,7 +41,7 @@ Clash Prevention is a critical aspect of Program Maker. The program analyzes the
 
 Welcome to Program Maker, this is a Python program designed to help you create schedules for lessons and groups. This program reads input from a text file, processes the information, and generates all possible schedules that are not CLASHING based on the provided data.
 
-## Features
+## 🚀 Features
 
 - Dynamic scheduling for lessons and groups.
 - Support for multiple lessons and additional groups.
