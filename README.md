@@ -33,10 +33,10 @@ Don't worry; it's designed to simplify your scheduling woes. Let's unravel the m
    python program_maker.py
 
 The output will be:
-   '''
+   ```
    Welcome to Program Maker
    Enter your txt file:
-   '''
+   ```
 
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E1Y3RmMDBwNXdibG4zaWhiNG9zdncwMjltaTJvbGRtazYwdjJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)
