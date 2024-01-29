@@ -1,3 +1,5 @@
+import sys
+
 print("Welcome to Program Maker")
 
 ready_program = [
@@ -15,6 +17,9 @@ print_group   = []
 programFile = input("Enter your txt file: ")
 with open(programFile, 'r') as f:
     programList = f.readlines()
+
+# Redirect stdout to a file
+sys.stdout = open('output.txt', 'w')
 
 programList = [item.replace('\n','') for item in programList]
     
@@ -1192,3 +1197,5 @@ for i in range(0,len(print_Program)):
     
 
 print(f"\nYou have {len(print_Program)} possible program")
+
+sys.stdout = sys.__stdout__
